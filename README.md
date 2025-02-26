@@ -5,15 +5,24 @@ Participant Details
 Name: Yamini Thirumani
 Email: thirumaniyaminivk@gmail.com
 GOC ID: 373616401329
-🚀 Brief Summary
+
+
+Brief Summary
+
 Tax Filing Made Simple with AI!
+
 Filing taxes is often complex, time-consuming, and filled with missed opportunities. Many people overpay simply because they don’t understand tax deductions or savings strategies. What if tax filing became effortless?
 
 Meet Your AI-Powered Tax Assistant!
-✅ Extracts key details from documents like Form 16 & salary slips
-✅ Calculates taxes automatically based on the latest tax slabs
-✅ Suggests AI-driven tax-saving strategies
-✅ Provides an interactive dashboard for tracking & reports
+
+- Extracts key details from documents like Form 16 & salary slips
+  
+- Calculates taxes automatically based on the latest tax slabs
+  
+- Suggests AI-driven tax-saving strategies
+  
+- Provides an interactive dashboard for tracking & reports
+  
 
 With OCR technology, AI-powered deductions, and smart automation, users can maximize savings without stress. No more overpaying. No more guesswork. Just seamless, stress-free tax filing!
 
