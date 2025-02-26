@@ -9,13 +9,21 @@ ID: thirumaniyaminivk@gmail.com
 GOC ID: 373616401329
 
 #Brief Summary
+
 Tax Filing Made Simple with AI!
+
 Filing taxes can be confusing, time-consuming, and full of missed opportunities. Many people overpay simply because they don’t understand deductions or tax-saving strategies. But what if tax filing felt effortless?
+
 Meet Your AI-Powered Tax Assistant!
+
 ✔ Extracts key details from documents like Form 16 & salary slips
+
 ✔ Calculates your taxes automatically based on the latest tax slabs
+
 ✔ Suggests smart, AI-driven ways to save more (Tax Deductions)
+
 ✔ Provides an interactive dashboard for easy tracking & reports
+
 With OCR technology, AI-powered deductions, and smart automation, you can maximize your savings without any worries.No more overpaying. No more guesswork. Just stress-free tax filing!
 
 #Problem Statement
